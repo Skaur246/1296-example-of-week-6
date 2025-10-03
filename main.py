@@ -20,6 +20,6 @@ num_players = len(players)
 highest_score_player = (None, 0)
 lowest_score_player = (None, 0)
 average_score = calculate_avg_score(players)
-
+#added comment
 # Output player summary
 output_player_summary(num_players, highest_score_player[1], lowest_score_player[1], average_score)
